@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : 장석영"
+name                     : "장석영"
 description              : "An amazing website."
 url                      : "https://seokyoungchang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
